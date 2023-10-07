@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sign in app</string>
+    <string name="name">Full name</string>
+    <string name="phone">Mobile number</string>
+    <string name="email">Email ID</string>
+    <string name="act2name">Mobile number or Email</string>
+    <string name="create_an_account">Account Created Successfully!</string>
+</resources>
